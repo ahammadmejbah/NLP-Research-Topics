@@ -21,24 +21,12 @@
 <li>Distributed Representations of Sentences and Documents<li>
 </ol>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<li>Text Summarization<li>
-<li>Sentence Similarity<li>
-<li>Sentiment Analysis <li>
-<li>Text Classification<li>
-<li>Neural Machine Translation<li>
-<li> Document Summarization<li>
+<li>Text Summarization</li>
+<li>Sentence Similarity</li>
+<li>Sentiment Analysis </li>
+<li>Text Classification</li>
+<li>Neural Machine Translation</li>
+<li> Document Summarization</li>
 </ol>
 
 
