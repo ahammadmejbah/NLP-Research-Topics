@@ -8,12 +8,11 @@
 
 
 <ol>
-<li>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</li>
+<li>![BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805v2.pdf)</li>
 <li>Graph Attention Networks</li>
 <li>RoBERTa: A Robustly Optimized BERT Pretraining Approach</li>
 <li>End-To-End Memory Networks</li>
 <li>ALBERT: A Lite BERT for Self-supervised Learning of Language Representations</li>
-<li>Increasing model size when pretraining natural language representations often results in improved performance on downstream tasks.</li>
 <li>Deep contextualized word representations</li>
 <li>Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</li>
 <li>BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</li>
