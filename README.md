@@ -2,8 +2,58 @@
 
 <img src="https://github.com/ahammadmejbah/NLP-Research-Topics/blob/main/Research.png">
 
-<ol>
 
+<ol>
+<li>Question Answering <li>
+
+
+<ol>
+<li>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</li>
+<li>Graph Attention Networks</li>
+<li>RoBERTa: A Robustly Optimized BERT Pretraining Approach</li>
+<li>End-To-End Memory Networks</li>
+<li>ALBERT: A Lite BERT for Self-supervised Learning of Language Representations</li>
+<li>Increasing model size when pretraining natural language representations often results in improved performance on downstream tasks.</li>
+<li>Deep contextualized word representations</li>
+<li>Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</li>
+<li>BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</li>
+<li>DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter</li>
+<li>Distributed Representations of Sentences and Documents
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>Text Summarization<li>
+<li>Sentence Similarity<li>
+<li>Sentiment Analysis <li>
+<li>Text Classification<li>
+<li>Neural Machine Translation<li>
+<li> Document Summarization<li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ol>
 <li>Using natural language processing for topical sentiment analysis of COVID-19 Twitter dialogue, reveal the discussion on masks. </li>
 <li>A Deep Learning Taxonomy for Natural Language Processing. </li>
 <li>Using natural language processing and data from the electronic health record, predict serious chest injuries. </li>
