@@ -8,7 +8,7 @@
 
 
 <ol>
-<li>![BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805v2.pdf)</li>
+<li> <a href="https://arxiv.org/pdf/1810.04805v2.pdf">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding </a></li>
 <li>Graph Attention Networks</li>
 <li>RoBERTa: A Robustly Optimized BERT Pretraining Approach</li>
 <li>End-To-End Memory Networks</li>
