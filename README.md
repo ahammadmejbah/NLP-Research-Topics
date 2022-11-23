@@ -4,7 +4,7 @@
 
 <li>Using natural language processing for topical sentiment analysis of COVID-19 Twitter dialogue, reveal the discussion on masks. 
 
-<li>a Deep Learning Taxonomy for Natural Language Processing. 
+<li>A Deep Learning Taxonomy for Natural Language Processing. 
 
 <li>Using natural language processing and data from the electronic health record, predict serious chest injuries. 
 
@@ -18,13 +18,13 @@
 
 <li>Analysis of the COVID-19 pandemic's stroke detection using radiology report natural language processing. </li>
 
-<li>creation of a retention prediction model for HIV treatment using clinical note natural language processing. </li>
+<li>Creation of a retention prediction model for HIV treatment using clinical note natural language processing. </li>
 
 <li>Defining Occlusion and Language Modeling in Natural Language Processing Classifiers. </li>
 
-<li>newest technology for semantic analysis of language processing. </li>
+<li>Newest technology for semantic analysis of language processing. </li>
 
-<li>a comprehensive directory of medical acronyms and abbreviations for NLP. </li>
+<li>A comprehensive directory of medical acronyms and abbreviations for NLP. </li>
 
 <li>Big data for mental health is processed using natural language. </li>
 
