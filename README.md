@@ -4,7 +4,7 @@
 
 
 <ol>
-<li>Question Answering <li>
+<li>Question Answering </li>
 
 
 <ol>
@@ -18,7 +18,7 @@
 <li>Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</li>
 <li>BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</li>
 <li>DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter</li>
-<li>Distributed Representations of Sentences and Documents
+<li>Distributed Representations of Sentences and Documents<li>
 </ol>
 
 
