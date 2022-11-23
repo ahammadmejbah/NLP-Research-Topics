@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ahammadmejbah/NLP-Research-Topics/blob/main/Research.png">
 
-
+ <b><h1><code>Research Area</code></h1></b>
 <ol>
 <li>Question Answering </li>
 <li>Text Summarization</li>
@@ -19,7 +19,7 @@
 
 
 
-
+ <b><h1><code>Reasearch Title</code></h1></b>
 
 
 
