@@ -4,13 +4,11 @@
 
 <ol>
 
-<li>Using natural language processing for topical sentiment analysis of COVID-19 Twitter dialogue, reveal the discussion on masks. 
+<li>Using natural language processing for topical sentiment analysis of COVID-19 Twitter dialogue, reveal the discussion on masks. <li>
 
-<li>A Deep Learning Taxonomy for Natural Language Processing. 
+<li>A Deep Learning Taxonomy for Natural Language Processing. </li>
 
-<li>Using natural language processing and data from the electronic health record, predict serious chest injuries. 
-
-<li>processing natural language in artificial intelligence. 
+<li>Using natural language processing and data from the electronic health record, predict serious chest injuries. </li>
 
 <li>Natural language processing of clinical research literature using UMLS-based data augmentation. </li>
 
@@ -41,6 +39,23 @@
 <li>A portable clinical natural language processing model called Med7 is used for electronic medical records. </li>
 
 <li>Text is a R package that uses deep learning and natural language processing to analyze and visualize human words.</li>
+ <li>Using a natural language processing algorithm to forecast customer purchasing preferences in retail establishments.<li>
+
+<li>Natural Language Processing and Supervised Learning Estimator for Classifying Fake News Articles.<li>
+
+<li>Using Topic Modelling and Natural Language Processing, mine online reviews. <li>
+
+<li>Natural language processing and text analytics. <li>
+
+<li>Platform for Product Recommendations Using Natural Language Processing <li>
+
+<li>Comparative question-answering system using machine learning and natural language processing <li>
+
+<li>Natural Language Processing Toolkit for Unified Multilingual Robustness Evaluation: TextFlint. <li>
+
+<li>Machine learning is used in the implementation of natural language processing in the Seller-bot for SMEs. <li>
+
+<li>Application of trained natural language processing models to the identification of user stories in software problem reports.<li>
 
 
 </ol>
