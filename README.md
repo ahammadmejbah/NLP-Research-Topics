@@ -9,15 +9,15 @@
 
 <ol>
 <li> <a href="https://arxiv.org/pdf/1810.04805v2.pdf">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding </a></li>
-<li>Graph Attention Networks</li>
-<li>RoBERTa: A Robustly Optimized BERT Pretraining Approach</li>
-<li>End-To-End Memory Networks</li>
-<li>ALBERT: A Lite BERT for Self-supervised Learning of Language Representations</li>
-<li>Deep contextualized word representations</li>
-<li>Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</li>
-<li>BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</li>
-<li>DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter</li>
-<li>Distributed Representations of Sentences and Documents<li>
+<li><a href="https://arxiv.org/pdf/1710.10903v3.pdf"> Graph Attention Networks</a></li>
+<li><a href="https://arxiv.org/pdf/1907.11692v1.pdf"> RoBERTa: A Robustly Optimized BERT Pretraining Approach</a></li>
+<li><a href="https://arxiv.org/pdf/1503.08895v5.pdf"> End-To-End Memory Networks</a></li>
+<li><a href="https://arxiv.org/pdf/1909.11942v6.pdf"> ALBERT: A Lite BERT for Self-supervised Learning of Language Representations</a></li>
+<li><a href="https://arxiv.org/pdf/1802.05365v2.pdf"> Deep contextualized word representation</a>s</li>
+<li><a href="https://arxiv.org/pdf/1910.10683v3.pdf"> Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a></li>
+<li><a href="https://arxiv.org/pdf/1910.13461v1.pdf"> BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a></li>
+<li><a href="https://arxiv.org/pdf/1405.4053v2.pdf"> DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter</a></li>
+<li><a href="https://arxiv.org/pdf/1910.01108v4.pdf"> Distributed Representations of Sentences and Documents</a><li>
 </ol>
 
 <li>Text Summarization</li>
